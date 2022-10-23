@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          NextJS CI/CD con Github Actions
+          Hello world
         </h1>
 
         <p className={styles.description}>
